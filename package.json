@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natures",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass src/sass/main.scss src/styles/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cTahirih/natours-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cTahirih/natours-project/issues"
+  },
+  "homepage": "https://github.com/cTahirih/natours-project#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

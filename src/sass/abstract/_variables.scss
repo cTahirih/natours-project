@@ -1,0 +1,16 @@
+:root {
+  --primary-900: #28b485; /*dark green*/
+  --primary-900-08: rgba(40, 180, 131, 0.8); /*dark green*/
+  --primary-800: #55c57a; /*medium green*/
+  --primary-700: #7ed56f; /*light green*/
+  --primary-700-08: rgba(126, 213, 111, 0.8); /*light green*/
+  --white: #fff;
+  --black: #111;
+  --text: #777;
+  --success: #23c353;
+  --error: #f53035;
+}
+
+$color-primary: var(--primary-800);
+$color-primary-light: var(--primary-700);
+$color-primary-dark: var(--primary-900);
