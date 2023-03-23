@@ -1,3 +1,17 @@
+/*
+0-600px phone
+600 900px tablet portrait
+900 1200 tablet landscape
+1200-1888 is where our normal styles aply
+1800 a + big desktop
+
+$breakpoint argument choices:
+phone
+tab-port
+tab-land
+desktop
+big-desktop
+*/
 :root {
   --primary-900: #28b485;
   /*dark green*/
