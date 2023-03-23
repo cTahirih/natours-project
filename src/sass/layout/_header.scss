@@ -5,7 +5,7 @@
                   to right bottom,
                   var(--primary-700-08),
                   var(--primary-900-08)),
-  url("../images/hero.jpg");
+                  url("../images/hero.jpg");
   background-size: cover;
   background-position: top;
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
@@ -29,11 +29,6 @@
     color: var(--white);
     text-align: center;
     backface-visibility: hidden;
-
-    .btn--white {
-      padding: 1.5rem 4rem;
-      display: inline-block;
-    }
   }
 }
 
